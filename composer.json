@@ -1,5 +1,5 @@
 {
-    "name": "drak3/bank-server",
+    "name": "sasdbg/bank-server",
     "description": "A simple Banking-Server",
     "require": {
         "silex/silex": "1.0.*@dev",
