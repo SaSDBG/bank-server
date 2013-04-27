@@ -1,0 +1,15 @@
+{
+    "name": "drak3/bank-server",
+    "description": "A simple Banking-Server",
+    "require": {
+        "silex/silex": "1.0.*@dev",
+        "doctrine/dbal": "2.3.*"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "drak3",
+            "email": "drak3@live.de"
+        }
+    ]
+}
