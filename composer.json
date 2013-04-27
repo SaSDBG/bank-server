@@ -11,5 +11,9 @@
             "name": "drak3",
             "email": "drak3@live.de"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "SaS": ["src/", "test/src/"] }
+    }
+
 }
